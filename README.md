@@ -8,12 +8,19 @@
 💡 Why This Bot?
 ✨ Revolutionary Features:
 ✔️ /start - Display help message 📖
+
 ✔️ /kill - Initiate Card Killer Mode 💀
+
 ✔️ /mkill - Activate Mass CC Killing Mode 🎯
+
 ✔️ /chk - Check cards ($0.10 fee) 🛠️
+
 ✔️ /chk1 - Advanced check ($1 fee) 💰
+
 ✔️ /chk10 - Premium check ($10 fee) 💎
+
 ✔️ /status - Verify card status 🧾
+
 ✔️ /health - System health check 🩺
 
 🗂️ Input Format:
